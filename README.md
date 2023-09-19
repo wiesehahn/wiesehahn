@@ -1,6 +1,12 @@
+[![Website](https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=webtrees&logoColor=white)](https://wiesehahn.github.io/)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://elk.zone/fosstodon.org/@JensWiesehahn)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jens-Wiesehahn)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wiesehahn)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JensWiesehahn)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-wiesehahn-a35782184/)
+
 # At the edge of Forest Science, Remote Sensing and Cartography
 
-*website at https://wiesehahn.github.io/*
 
 __Data science for a better understanding of forest ecosystems and their sustainable management.__
 
