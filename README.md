@@ -32,5 +32,7 @@ _Soil inventories_ - _Forest inventories_ - _Custom references_ - _Open Street M
 #### Cartography
 ![dominant_tree_species_medium](https://user-images.githubusercontent.com/41429613/212553158-600335ef-e10f-4492-875f-e0aa4797d377.png)
 
+#### Infographic
+![National Forest Inventory - Infographic](https://github.com/wiesehahn/wiesehahn/assets/41429613/92ccd124-cbec-4430-8dfc-6fe95536b929)
 
 <a rel="me" href="https://fosstodon.org/@JensWiesehahn"></a>
