@@ -29,6 +29,8 @@ _Soil inventories_ - _Forest inventories_ - _Custom references_ - _Open Street M
 #### Webmapping
 [![Webmapping - comparing maplibre and mapbox](https://i.vimeocdn.com/video/1442046742-25d2a16b082fd4bedfc51ec2795efaf12330248190f4c6827a0730200d08ddd9-d_1280x720)](https://vimeo.com/715499505)
 
+[![Divespots on Webmap](https://raw.githubusercontent.com/wiesehahn/divemap/main/img/z08.JPG)](https://github.com/wiesehahn/divemap)
+
 #### Cartography
 ![dominant_tree_species_medium](https://user-images.githubusercontent.com/41429613/212553158-600335ef-e10f-4492-875f-e0aa4797d377.png)
 
