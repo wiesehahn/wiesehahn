@@ -10,31 +10,34 @@
 
 __Data science for a better understanding of forest ecosystems and their sustainable management.__
 
-Using current tools and technologies to integrate all kinds of spatial information for an in-depth analysis and modern visualizations, mainly in the field of forestry.
+Using modern tools and technologies to integrate all kinds of spatial information for an in-depth analysis and striking visualizations, mainly in the field of forestry.
 
-### Tools
+#### Tools
 
-_R-Statistics_ (tidyverse - terra - sf - - mapview - lidr) - _gdal_ - _pdal_ - _QGIS_ - _mapbox-gl-js_ - _maplibre-gl-js_
+_R-Statistics_ - _GDAL_ - _PDAL_ - _QGIS_ - _Mapbox-GL-JS_ - _Maplibre-GL-JS_ - _Git_ - ...
 
-### Data
-_Soil inventories_ - _Forest inventories_ - _Custom references_ - _Open Street Map_ - _Orthoimages_ - _Aerial Laser Scanning_ - _Satellite imagery_
-
-
-### Vizualization
-
-#### 3D-rendering
-[![Forest disturbances in the Harz Mountains-low](https://user-images.githubusercontent.com/41429613/161536025-9189adbd-1ea9-48de-b1f6-5e3a260962ea.gif)](https://vimeo.com/695655515)
+#### Data
+_Soil Inventories_ - _Forest Inventories_ - _Custom References_ - _Open Street Map_ - _Orthoimages_ - _Airborne Laser Scanning_ - _Satellite Imagery_ - _Sensor Data_ - _UAV Data_ - _Climate Models_ - ...
 
 
-#### Webmapping
-[![Webmapping - comparing maplibre and mapbox](https://i.vimeocdn.com/video/1442046742-25d2a16b082fd4bedfc51ec2795efaf12330248190f4c6827a0730200d08ddd9-d_1280x720)](https://vimeo.com/715499505)
+### Sample Projects - Visualization
 
-[![Divespots on Webmap](https://raw.githubusercontent.com/wiesehahn/divemap/main/img/z08.JPG)](https://github.com/wiesehahn/divemap)
+#### Forest disturbances in the Harz Mountains (3D-rendering in R)
+[![Forest disturbances in the Harz Mountains](https://user-images.githubusercontent.com/41429613/161536025-9189adbd-1ea9-48de-b1f6-5e3a260962ea.gif)](https://vimeo.com/695655515)
 
-#### Cartography
-![dominant_tree_species_medium](https://user-images.githubusercontent.com/41429613/212553158-600335ef-e10f-4492-875f-e0aa4797d377.png)
+#### An App to visualize forest disturbances
+[![App to visualize forest disturbances](https://github.com/wiesehahn/wiesehahn/assets/41429613/7b9bfd41-03f6-4c06-adc1-9300761160bd)](https://wiesehahn.users.earthengine.app/view/waldzustand-v10)
 
-#### Infographic
+#### Comparing terrain in web mapping libraries (Maplibre and Mapbox GL JS)
+[![Web-mapping - comparing maplibre and mapbox](https://i.vimeocdn.com/video/1442046742-25d2a16b082fd4bedfc51ec2795efaf12330248190f4c6827a0730200d08ddd9-d_1280x720)](https://wiesehahn.github.io/webmaps/comparison/maplibre_mapbox_terrain_video.html)
+
+#### A personal dive map with Mapbox GL
+[![Divespots on webmap](https://raw.githubusercontent.com/wiesehahn/divemap/main/img/z08.JPG)](https://github.com/wiesehahn/divemap)
+
+#### Dominant tree species in Germany
+![Map of dominant tree species](https://user-images.githubusercontent.com/41429613/212553158-600335ef-e10f-4492-875f-e0aa4797d377.png)
+
+#### Infographic for the German National Forest Inventory
 [![National Forest Inventory - Infographic](https://github.com/wiesehahn/wiesehahn/assets/41429613/92ccd124-cbec-4430-8dfc-6fe95536b929)](https://wiesehahn.github.io/bwi_map/)
 
 <a rel="me" href="https://fosstodon.org/@JensWiesehahn"></a>
