@@ -1,9 +1,10 @@
-[![Website](https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=webtrees&logoColor=white)](https://wiesehahn.github.io/)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://elk.zone/fosstodon.org/@JensWiesehahn)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jens-Wiesehahn)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wiesehahn)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JensWiesehahn)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-wiesehahn-a35782184/)
+[![Website](https://img.shields.io/badge/Website-white?logo=wheniwork&logoColor=black)](https://wiesehahn.github.io/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-white?logo=mastodon&logoColor=black)](https://elk.zone/fosstodon.org/@JensWiesehahn)
+[![Researchgate](https://img.shields.io/badge/Researchgate-white?logo=researchgate&logoColor=black)](https://www.researchgate.net/profile/Jens-Wiesehahn)
+[![Github](https://img.shields.io/badge/Github-white?logo=github&logoColor=black)](https://github.com/wiesehahn)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-white?logo=invision&logoColor=black)](https://www.linkedin.com/in/jens-wiesehahn-a35782184/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-white?logo=bluesky&logoColor=black)](https://bsky.app/profile/jenswiesehahn.bsky.social)
+
 
 # At the edge of Forest Science, Remote Sensing and Cartography
 
